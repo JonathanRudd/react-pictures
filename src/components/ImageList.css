@@ -1,0 +1,11 @@
+.image-list {
+  columns: 6 200px;
+  column-gap: 10px;
+}
+
+img {
+  width: 100%;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
+}
